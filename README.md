@@ -10,7 +10,7 @@ There will be two speakers per session. Material to be presented can be based on
   
 | Date | Discussion leaders | Paper/Topic | Location |
 | --- | --- | --- | --- |
-| 21/08/2017 | Jorge Cardoso <br/> Felix Bragman | TBC | TBC |
-| 18/09/2017 | TBC | TBC | TBC |
+| 21/08/2017 | Jorge Cardoso <br/> Felix Bragman | TBD | TBD |
+| 18/09/2017 | TBD | TBD | TBD |
 
 </center>
