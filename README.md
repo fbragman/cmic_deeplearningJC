@@ -6,7 +6,11 @@ There will be two speakers per session. Material to be presented can be based on
 
 * Meetings are on the 3rd Monday of every month at time X and location Y unless otherwise stated
 
-| Date | Discussion leaders | Paper/Topic | Location
+<center>
+  
+| Date | Discussion leaders | Paper/Topic | Location |
 | --- | --- | --- | --- |
 | 21/08/2017 | Jorge Cardoso <br/> Felix Bragman | TBC | TBC |
 | 18/09/2017 | TBC | TBC | TBC |
+
+</center>
