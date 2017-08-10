@@ -1,2 +1,2 @@
-# cmic_deeplearningJC
+# CMIC deep learning journal club
 CMIC deep learning journal club
