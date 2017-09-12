@@ -4,7 +4,7 @@ The aim of this journal club is to discuss any subject related to deep learning 
 
 There will be two speakers per session. Material to be presented can be based on an upcoming paper, an interesting blog-post, a new code library and so forth.
 
-* Meetings are on the 3rd Monday of every month at time X and location Y unless otherwise stated
+* Meetings are on the 3rd Monday of every month from 2-3pm.
 
 <center>
   
