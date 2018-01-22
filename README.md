@@ -4,6 +4,8 @@ The aim of this journal club is to discuss any subject related to deep learning 
 
 There will be two speakers per session. Material to be presented can be based on an upcoming paper, an interesting blog-post, a new code library and so forth.
 
+Please sign up to the mailing list with your UCL e-mail at: http://www.mailinglists.ucl.ac.uk/mailman/listinfo/cmic-deeplearning-journalclub
+
 * Meetings are on the 3rd Monday of every month from 4-5pm unless specified.
 
 <center>
