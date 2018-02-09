@@ -19,4 +19,5 @@ Please sign up to the mailing list with your UCL e-mail at: http://www.mailingli
 | 18/12/2017 4-5pm | Kerstin Klaser <br/> Irme Groothuis| <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8071026&tag=1">Multimodal MR synthesis via modality-invariant latent representation</a> <br/> <a href="https://link.springer.com/chapter/10.1007/978-3-319-59050-9_47"> Unsupervised domain adapation in brain lesion segmentation with adversarial networks </a> | Foster Court 113 |
 | 22/01/2017 4-5pm | Stephen Morrell <br/> Nikolas Pontikos| <a href="https://arxiv.org/pdf/1703.06211.pdf">Deformable Convolutional Networks</a> <br/> <a href="http://www.sciencedirect.com/science/article/pii/S2468653016301749"> Deep Learning Is Effective for Classifying Normal versus Age-Related Macular Degeneration OCT Images </a> | Engineering Front Building Executive Suite 1.03 |
 | 19/02/2017 | | No journal club |  |
+| 19/03/2017 | TBC | TBC | TBC
 </center>
