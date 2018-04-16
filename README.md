@@ -20,5 +20,5 @@ Please sign up to the mailing list with your UCL e-mail at: http://www.mailingli
 | 22/01/2017 4-5pm | Stephen Morrell <br/> Nikolas Pontikos| <a href="https://arxiv.org/pdf/1703.06211.pdf">Deformable Convolutional Networks</a> <br/> <a href="http://www.sciencedirect.com/science/article/pii/S2468653016301749"> Deep Learning Is Effective for Classifying Normal versus Age-Related Macular Degeneration OCT Images </a> | Engineering Front Building Executive Suite 1.03 |
 | 19/02/2017 | | No journal club |  |
 | 19/03/2017 | Tom Varsavsky <br/> Marta Ranzini | <a href="https://arxiv.org/pdf/1703.06114.pdf">Deep Sets</a> <br/> <a href="https://arxiv.org/abs/1705.07115"> Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics </a> | Gordon Square (16-18) 101
-| 23/04/2017 | | David Owen <br/> Guotai Wang | <a href="https://arxiv.org/pdf/1802.10171.pdf">Tell me where to look: guided attention inference network</a> <br/> <a href="https://openreview.net/pdf?id=HyzbhfWRW"> Learn to pay attention </a>  |
+| 23/04/2017 | David Owen <br/> Guotai Wang | <a href="https://arxiv.org/pdf/1802.10171.pdf">Tell me where to look: guided attention inference network</a> <br/> <a href="https://openreview.net/pdf?id=HyzbhfWRW"> Learn to pay attention </a>  | Malet Place 1.04
 </center>
